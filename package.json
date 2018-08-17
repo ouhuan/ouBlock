@@ -1,0 +1,25 @@
+{
+  "name": "ouBlock",
+  "version": "1.0.0",
+  "description": "小型区块链系统 express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouhuan/ouBlock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouhuan/ouBlock/issues"
+  },
+  "homepage": "https://github.com/ouhuan/ouBlock#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "websocket_p2pnet": "^0.0.4"
+  }
+}
